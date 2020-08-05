@@ -37,5 +37,12 @@ namespace ClassesExample.Animals
             }
 
         }
+
+        //method overloading
+        public void Peck()
+        {
+            Peck("Corn");
+        }
+
     }
 }
